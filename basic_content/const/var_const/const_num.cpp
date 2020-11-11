@@ -1,4 +1,13 @@
-#include<iostream>
+/*
+ * @Author: your name
+ * @Date: 2020-11-11 12:41:55
+ * @LastEditTime: 2020-11-11 19:20:59
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \CPlusPlusPratice\basic_content\const\var_const\const_num.cpp
+ */
+#include <iostream>
+#include <string>
 using namespace std;
 
 int main()
@@ -12,6 +21,6 @@ int main()
 	const int const_b = 1;
 	const string const_s = "hello world";
 	const int i = 1, j = 0;
-	cout<<const_b<<const_s<<i<<j;
+	cout<<const_s<<i<<j;
 	return 0;
 }
