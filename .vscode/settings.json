@@ -1,0 +1,5 @@
+{
+    "code-runner.showExecutionMessage": true,
+    "c-cpp-compile-run.run-in-external-terminal": false,
+    "code-runner.runInTerminal": false
+}
